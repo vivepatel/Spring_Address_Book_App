@@ -1,7 +1,5 @@
 package com.bridgelabz.address_book_app.model;
 
-
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
